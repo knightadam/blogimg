@@ -1,1 +1,2 @@
-# blogimg
+# 图床
+`https://blogimg.knightzmy.cloudns.ch/img`
